@@ -35,7 +35,7 @@ A penultimate CS student at NUS, with keen interest in software engineering. Pos
 
 #### Frontend
 
-<img alt="react" src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=black&style=for-the-badge" /><img alt="flutter" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="react" src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=black&style=for-the-badge" /> <img alt="flutter" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="react native" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img alt="angular" src="https://img.shields.io/badge/-angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
 <img alt="html5" src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -51,7 +51,7 @@ A penultimate CS student at NUS, with keen interest in software engineering. Pos
 <img alt=".net core" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 
 ### Database
-<img alt="postgresql" src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /><img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="postgresql" src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /> <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ### Others
 <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
