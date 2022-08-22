@@ -20,7 +20,7 @@
 
 ## About Me 
 
-A penultimate CS student at NUS, with keen interest in software engineering. Possess some experience through past internships and projects. 
+A final year CS student at NUS, with keen interest in software engineering. Possess some experience through past internships and projects. 
 
 ## Technologies 
 
