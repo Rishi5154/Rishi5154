@@ -27,25 +27,26 @@ Junior software engineer, alumni@National University of Singapore. Possess some 
 ### Programming Languages
 
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/> <img alt="java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" /> 
-<img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<!-- <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img alt="typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-<img alt="csharp" src="https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+<img alt="csharp" src="https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=for-the-badge" /> -->
 
 ### Frameworks
 
 #### Frontend
 
 <img alt="react" src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=black&style=for-the-badge" /> <img alt="flutter" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="react native" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+<!-- <img alt="react native" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img alt="angular" src="https://img.shields.io/badge/-angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-<img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
 
 #### Backend
 
-<img alt="node.js" src="https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /> <img alt="express" src="https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge" />
+<img alt="fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<!-- <img alt="node.js" src="https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /> <img alt="express" src="https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge" />
 <img alt="go" src="https://img.shields.io/badge/-go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
 <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img alt="nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img alt="nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> -->
 <img alt="springboot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 
 ### Database
