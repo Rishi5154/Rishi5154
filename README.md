@@ -20,8 +20,8 @@
 
 ## About Me 
 
-Software engineer, alumni@National University of Singapore
-Avid social footballer (Cosmoleague, Dejavu 7v7, Islandwide League, etc)
+- Software engineer, alumni@National University of Singapore
+- Avid social footballer (Cosmoleague, Dejavu 7v7, Islandwide League, etc)
 
 ## Technologies 
 
