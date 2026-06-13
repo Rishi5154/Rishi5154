@@ -23,6 +23,12 @@
 - Software engineer, alumni@National University of Singapore
 - Avid social footballer (Cosmoleague, Dejavu 7v7, Islandwide League, etc)
 
+## Focussing on
+- Solving problems at scale (distributed systems, etc)
+- Optimisation on demand
+- Agentic development
+- Workflow orchestration with AI
+
 ## Technologies 
 
 ### Programming Languages
