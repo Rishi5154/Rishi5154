@@ -20,7 +20,7 @@
 
 ## About Me 
 
-Junior software engineer, alumni@National University of Singapore. Possess some experience through past internships and projects as well. 
+Software engineer, alumni@National University of Singapore
 
 ## Technologies 
 
@@ -50,7 +50,8 @@ Junior software engineer, alumni@National University of Singapore. Possess some 
 <img alt="springboot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 
 ### Database
-<img alt="postgresql" src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /> <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="postgresql" src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+<!-- <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 
 ### Others
 <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
